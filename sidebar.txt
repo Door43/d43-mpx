@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mpx:home|Door43 (mpx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mpx|d43-mpx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mpx/archive/master.zip|d43-mpx.zip]]
+
+**Recent Changes**
+{{changes>ns = mpx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mpx|Ethnologue data]]
+
